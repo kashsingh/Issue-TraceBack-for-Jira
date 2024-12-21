@@ -1,6 +1,6 @@
 # Issue Traceback for Jira
 
-This project contains a simple Forge app written in JavaScript that shows an audit log of all the Jira issues deleted in instance post installation in a Jira admin page. Some of the key modules utilized in the app include [Forge Storage - Custom Entity Store](https://developer.atlassian.com/platform/forge/storage-reference/storage-api-custom-entities/), [Jira Events triggers](https://developer.atlassian.com/platform/forge/events-reference/jira/) and [UI kit](https://developer.atlassian.com/platform/forge/ui-kit/components/) for frontend.
+This project features a straightforward Forge app built with JavaScript, designed to display an audit log of all Jira issues deleted in the instance after the app's installation. The audit log is accessible from a dedicated Jira admin page. Some of the key modules utilized in the app include [Forge Storage - Custom Entity Store](https://developer.atlassian.com/platform/forge/storage-reference/storage-api-custom-entities/), [Jira Events triggers](https://developer.atlassian.com/platform/forge/events-reference/jira/) and [UI kit](https://developer.atlassian.com/platform/forge/ui-kit/components/) for frontend.
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
